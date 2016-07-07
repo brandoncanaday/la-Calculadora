@@ -1,0 +1,11 @@
+target/
+project/
+
+*.history
+*.cache
+
+*.class
+
+*.jar
+*.war
+*.ear
